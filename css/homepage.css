@@ -1,0 +1,132 @@
+/* DEVELOPER: Ahmad Odeh, IS117-002, Spring 2023 */
+
+
+* {
+    margin:0;
+    padding:0;
+}
+
+.navbar {
+    background-color: #000;
+    color: #fff;
+}
+body {
+    background-color: black;
+}
+/* Modify the background color */
+
+.container{
+    background-color: black;
+}
+/* home page */
+.img-box {
+    display: grid;
+    height: 50%;
+}
+
+.card-img-top {
+
+}
+
+.center-fit {
+    max-width: 80%;
+    max-height: 100vh;
+    margin: auto;
+}
+div.a {
+    text-align: center;
+    color: white;
+}
+.card-deck {
+    padding: 5%;
+    font-family: Calibri Light, Arial;
+    background-color: black;
+}
+.p {
+    color: white;
+}
+
+.card-body {
+    background-color: black;
+}
+.row {
+    color: black;
+}
+
+.big-title {
+    color: white;
+}
+.card-title {
+    color: white;
+    text-align: center;
+}
+
+.card-text {
+    color: white;
+}
+
+/* contact page */
+.big-title {
+    text-align: center;
+    font-family: Calibri Light, Arial;
+}
+.form-group {
+    margin: 20px;
+    padding: 20px;
+}
+/* about page */
+.text-center {
+    font-family: Calibri Light, Arial;
+}
+.container-me {
+    margin-left: 3%;
+}
+.text-center {
+    color: white;
+}
+.my-pic {
+    display: block;
+    padding-right: 10px;
+    padding-bottom: 60px;
+    width: 35%;
+}
+.btn-primary {
+    background-color: black;
+}
+
+.about-me {
+    text-color: white;
+}
+.me-text {
+    max-width: 60%;
+    text-align: right;
+    padding-left: 5px;
+    float: right;
+    color: white;
+    font-family: Calibri Light, Arial;
+    font-size: 24pt;
+}
+
+.column {
+    float: left;
+    width: 40%;
+}
+
+/* footer */
+footer {
+    display:flex;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    width: 100%;
+    justify-content:center;
+    align-items:center;
+
+
+}
+
+
+}
