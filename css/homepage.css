@@ -13,7 +13,12 @@
 body {
     background-color: black;
 }
-/* Modify the background color */
+
+.btn btn-primary {
+    background color:black;
+    color black;
+}
+
 
 .container{
     background-color: black;
